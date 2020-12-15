@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+   <title>Proyecto de GitHub</title>
+</head>
+<body>
+  <h1> Formulario (GitHub)</h1>
+  <p>
+    <label for="Nombre">Nombre: </label>
+    <input type="text" id=nombre required placeholder="Nombre">
+  </p>
+  
+  <p>
+    <label for="Boleta">Boleta: </label>
+    <input type=int id=nombre required placeholder="Boleta">
+  </p>
+  
+  <p>
+    <label for="Grupo">Grupo: </label>
+    <input type="text" id=nombre required placeholder="Grupo">
+  </p>
+  
+  <p>
+    <label for="Materia">Materia: </label>
+    <input type="text" id=nombre required placeholder="Materia">
+  </p>
+  
+  <p>
+    <label for="Fecha">Fecha: </label>
+    <input type="text" id=nombre required placeholder="Fecha">
+  </p>
+  
+  <p>
+    <input type="submit"></button>
+  </p>
+
+  <footer> Nuñez Herrejón Nadia Eleonora &copy; 2020</footer>
+  
+</body>
+</html>
